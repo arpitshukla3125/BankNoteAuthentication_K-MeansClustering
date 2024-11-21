@@ -1,1 +1,2 @@
+K-means clustering is a machine learning technique for banknote authentication that uses patterns in the properties of banknotes to identify whether they are authentic or fake. The approach uses K-means clustering to create discrete clusters from notes that have comparable attributes including texture, variation, and entropy. Data-driven analysis is used to detect counterfeit cash, with genuine notes belonging to one cluster and counterfeit notes to separate clusters.
 # BankNoteAuthentication_K-MeansClustering
